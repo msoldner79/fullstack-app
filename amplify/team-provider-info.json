@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "fullstackappd19fc801": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2uuqttu4490ok",
+          "type": "manual"
+        }
       }
     }
   }
